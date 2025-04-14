@@ -25,7 +25,7 @@ hola-mundo-docker
 
 1. **Clonar el Repositorio**:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/DAMIANCTA/Docker-hola-mundo.git
    cd hola-mundo-docker
    ```
 
